@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "755167525251",
+    "firebase_url": "https://bakingapp2.firebaseio.com",
+    "project_id": "bakingapp2",
+    "storage_bucket": "bakingapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755167525251:android:d715b7730d15b6fa",
+        "android_client_info": {
+          "package_name": "com.example.bakingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755167525251-b832insbfikd9glmkf585lrd4oeslj1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABiVqqdTGZNnvqNEJ9T5pJnLCCWc_mQcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755167525251-b832insbfikd9glmkf585lrd4oeslj1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

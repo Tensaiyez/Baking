@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">@color/appPurplelight</color>
+    <color name="colorAccent">@color/appPurplelight</color>
+    <color name="appPurple">#641FA7</color>
+    <color name="appPurplelight">#9753DA</color>
+</resources>
